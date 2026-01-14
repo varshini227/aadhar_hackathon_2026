@@ -8,4 +8,4 @@
 - **Primary Insight:** Identified a critical "March-End" surge and an October "System Stress" event (+7.4L).
 
 ##  Solution Provided
-We implemented a Trivariate analysis to help UIDAI transition from reactive to proactive resource management.
+I implemented a Trivariate analysis to help UIDAI transition from reactive to proactive resource management.
